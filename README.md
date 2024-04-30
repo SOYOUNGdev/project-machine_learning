@@ -42,3 +42,9 @@ describe()를 통해 mean값과 50% 값을 비교하여, 두 수치의 차이가
 > Total score = 수치형(스케일링 진행 후의 값 * 가중치) + 범주형  
 >> 가중치 = feature importance + 1  
 >> Total score를 구한 뒤, Target과 비교한다.  
+
+---
+### 회귀(regression) 실습
+- 데이터 탐색 후, 훈련 진행하여 R2 score 확인
+- 선형, 다항, 비선형 모델 모두 R2 score가 낮다면 OLS와 VIF를 확인해보고 feature들의 비중을 맞추거나 알맞게 삭제한다.
+- 이후 다시 훈련 진행하여 이전과 비교한다.
