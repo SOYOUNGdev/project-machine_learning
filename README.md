@@ -1,4 +1,4 @@
-### 최종 프로젝트 4개
+## 최종 프로젝트 4개
 <sub>누르면 해당 프로젝트 페이지로 이동됩니다.</sub>
 - Regression(회귀) 프로젝트
   - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Regression-Project-%E2%80%90-Linear-(Flight-price)"> 선형 </a> 
