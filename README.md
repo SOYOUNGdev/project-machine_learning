@@ -1,13 +1,14 @@
-### 최종 프로젝트 4개 진행
-- Regression 프로젝트
-  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/First-Project-(Regression-%E2%80%90-Linear)"> 선형 </a> 
-  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Second-Project-(LGBMRegressor)"> 비선형 </a>
-  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Thrid-Project-(high-dimension-%E2%80%90-PCA)"> 고차원 </a>
-- Classifier 프로젝트
-  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Fourth-Project-(Classifier-%E2%80%90-high-dimension,-logistic-regression,-LDA)"> 이진 분류 (고차원) </a>
+### 최종 프로젝트 4개
+<sub>누르면 해당 프로젝트 페이지로 이동됩니다.</sub>
+- Regression(회귀) 프로젝트
+  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Regression-Project-%E2%80%90-Linear-(Flight-price)"> 선형 </a> 
+  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Nonlinear-Project-%E2%80%90-LGBMRegressor-(Real-Estate-Price)"> 비선형 </a>
+  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/High-Dimension-Project-%E2%80%90-PCA-(Molecular-Property)"> 고차원 </a>
+- Classifier(분류) 프로젝트
+  - <a href="[https://github.com/SOYOUNGdev/project-machine_learning/wiki/Fourth-Project-(Classifier-%E2%80%90-high-dimension,-logistic-regression,-LDA)](https://github.com/SOYOUNGdev/project-machine_learning/wiki/Classifier-Project-%E2%80%90-high-dimension,-logistic-regression,-LDA-(Heart-Disease))"> 이진 분류 (고차원) </a>
 
 ---
-
+## 프로젝트 진행 중 주의 사항
 ### 데이터 탐색 (클러스터링)
 - 상관관계 (corr())
   1. 종속 변수 (타겟 데이터)
@@ -60,7 +61,7 @@ describe()를 통해 mean값과 50% 값을 비교하여, 두 수치의 차이가
 - 이후 다시 훈련 진행하여 이전과 비교한다.
 
 ---
-#### 과적합 유무 판단
+### 과적합 유무 판단
 - 파이토치 이용하여 loss값 비교!
 loss_history = []
 loss_history.append(loss.item())
