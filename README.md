@@ -5,7 +5,7 @@
   - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Nonlinear-Project-%E2%80%90-LGBMRegressor-(Real-Estate-Price)"> 비선형 </a>
   - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/High-Dimension-Project-%E2%80%90-PCA-(Molecular-Property)"> 고차원 </a>
 - Classifier(분류) 프로젝트
-  - <a href="[https://github.com/SOYOUNGdev/project-machine_learning/wiki/Fourth-Project-(Classifier-%E2%80%90-high-dimension,-logistic-regression,-LDA)](https://github.com/SOYOUNGdev/project-machine_learning/wiki/Classifier-Project-%E2%80%90-high-dimension,-logistic-regression,-LDA-(Heart-Disease))"> 이진 분류 (고차원) </a>
+  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Classifier-Project-%E2%80%90-high-dimension,-logistic-regression,-LDA-(Heart-Disease)"> 이진 분류 (고차원) </a>
 
 ---
 ## 프로젝트 진행 중 주의 사항
