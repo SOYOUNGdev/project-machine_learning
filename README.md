@@ -1,11 +1,11 @@
 ## 최종 프로젝트 4개
 <sub>누르면 해당 프로젝트 페이지로 이동됩니다.</sub>
 - Regression(회귀) 프로젝트
-  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Regression-Project-%E2%80%90-Linear-(Flight-price)"> 선형 </a> 
-  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Nonlinear-Project-%E2%80%90-LGBMRegressor-(Real-Estate-Price)"> 비선형 </a>
-  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/High-Dimension-Project-%E2%80%90-PCA-(Molecular-Property)"> 고차원 </a>
+  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Regression-Project-%E2%80%90-Flight-price"> 항공편 가격 예측 </a> 
+  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Nonlinear-Project-%E2%80%90-LGBMRegressor-(Real-Estate-Price)"> 부동산 가격 예측 </a>
+  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/High-Dimension-Project-%E2%80%90-PCA-(Molecular-Property)"> 분자 특성 예측 </a>
 - Classifier(분류) 프로젝트
-  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Classifier-Project-%E2%80%90-high-dimension,-logistic-regression,-LDA-(Heart-Disease)"> 이진 분류 (고차원) </a>
+  - <a href="https://github.com/SOYOUNGdev/project-machine_learning/wiki/Classifier-Project-%E2%80%90-high-dimension,-logistic-regression,-LDA-(Heart-Disease)"> 심장병 발병 예측 </a>
 
 ---
 ## 프로젝트 진행 중 주의 사항
